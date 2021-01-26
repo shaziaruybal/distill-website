@@ -1,20 +1,12 @@
 {
   "articles": [
     {
-      "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
-      "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-01-26T22:41:36+11:00"
-    },
-    {
       "path": "index.html",
-      "title": "iyo-distill",
+      "title": "Shazia Ruybal Pesántez",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-01-26T22:41:37+11:00"
+      "contents": "\n\n          \n          \n          Shazia Ruybal-Pesántez\n          \n          \n          Home\n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            Shazia Ruybal Pesántez\n          \n          \n            \n              Some about me text here!\n            \n            \n              Some about me text here!\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    \n          © Shazia Ruybal Pesántez 2021. Created using the {distill} R package.\n          \n          \n\n    \n  ",
+      "last_modified": "2021-01-26T23:26:08+11:00"
     }
   ],
   "collections": []

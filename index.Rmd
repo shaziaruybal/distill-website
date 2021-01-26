@@ -1,18 +1,20 @@
 ---
-title: "iyo-distill"
+title: "Shazia Ruybal Pesántez"
 description: |
   Welcome to the website. I hope you enjoy it!
+image: "headshot_2020.png"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/shazia-ruybal-pesantez"
+  - label: Twitter
+    url: "https://twitter.com/drshaziaruybal"
+  - label: GitHub
+    url: "https://github.com/shaziaruybal"
+  - label: Email
+    url: "mailto:shaziaruybal@gmail.com"
+output:
+  postcards::jolla
 site: distill::distill_website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
-
-```
-
+Some about me text here!
