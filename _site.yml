@@ -8,6 +8,8 @@ navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "About me"
+      href: about.html
   source_url: https://github.com/shaziaruybal/distill-website
 favicon: cartoon.png
 twitter:
